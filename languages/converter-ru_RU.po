@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Delete Revision\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-05 09:06+0300\n"
+"PO-Revision-Date: 2017-09-05 21:30+0300\n"
+"Last-Translator: \n"
+"Language-Team: VAV <nechin.va@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ bdr
+#: manager.php:28
+msgid "Currency calculator"
+msgstr "Калькулятор валют"
+
+# @ bdr
+#: manager.php:31
+msgid "Template '%s' not found"
+msgstr "Шаблон '%s' не найден"
+
+# @ bdr
+#: manager.tpl.php:12
+msgid "Currency"
+msgstr "Валюта"
+
+# @ bdr
+#: manager.tpl.php:13
+msgid "Name"
+msgstr "Название"
+
+# @ bdr
+#: manager.tpl.php:14
+msgid "Rate"
+msgstr "Курс"
+
+# @ bdr
+#: manager.tpl.php:14
+msgid "Exchange rate to ruble"
+msgstr "Курс валюты к рублю"
+
+# @ bdr
+#: manager.tpl.php:15
+msgid "Save"
+msgstr "Сохранить"
+
+# @ bdr
+#: manager.tpl.php:16
+msgid "Currency list"
+msgstr "Список валют"
+
+# @ bdr
+#: manager.tpl.php:17
+msgid "Actions"
+msgstr "Действия"
+
+# @ bdr
+#: manager.tpl.php:18
+msgid "Edit"
+msgstr "Редактировать"
+
+# @ bdr
+#: manager.tpl.php:19
+msgid "Delete"
+msgstr "Удалить"
+
+# @ bdr
+#: manager.tpl.php:20
+msgid "Add"
+msgstr "Добавить"
+
+# @ bdr
+#: manager.tpl.php:21
+msgid "Empty list"
+msgstr "Список пуст"
+
+# @ bdr
+#: manager.tpl.php:22
+msgid "Edit currency"
+msgstr "Редактирование валюты"
+
+# @ bdr
+#: manager.tpl.php:23
+msgid "Cancel"
+msgstr "Отмена"
+
+# @ bdr
+#: hook.php:19
+msgid "The value of the '%s' field can not be empty"
+msgstr "Значение поля '%s' не может быть пустым"
+
+# @ bdr
+#: hook.php:20
+msgid "The value of the '%s' field must be a number"
+msgstr "Значение поля '%s' должно быть числом"
+
+# @ bdr
+#: hook.php:21
+msgid "Are you sure you want to delete the currency '%s'?"
+msgstr "Вы уверены, что хотите удалить валюту '%s'?"
+
+# @ bdr
+#: manager.php:20
+msgid "Failed to save data"
+msgstr "Не удалось сохранить данные"
+
+# @ bdr
+#: manager.php:21
+msgid "Failed to delete data"
+msgstr "Не удалось удалить данные"
+
+# @ bdr
+#: manager.php:22
+msgid "Calculate failed"
+msgstr "Не удалось выполнить рассчёт"
+
+# @ bdr
+#: manager.php:23
+msgid "Currency with this name already exists"
+msgstr "Валюта с таким навзванием уже существует"
+
+# @ bdr
+#: calculator.tpl.php:10
+msgid "Calculate"
+msgstr "Рассчитать"
+
+# @ bdr
+#: calculator.tpl.php:11
+msgid "Sum"
+msgstr "Сумма"
+
+# @ bdr
+#: calculator.tpl.php:12
+msgid "Result"
+msgstr "Результат"
+
+# @ bdr
+#: calculator.tpl.php:13
+msgid "exchange for"
+msgstr "обменять на"

@@ -1,0 +1,28 @@
+.vav-converter {
+    padding: 10px;
+    background-color: lightgrey;
+    width: 445px;
+}
+.vav-converter-calculator {
+    padding: 10px;
+    background-color: white;
+}
+.vav-converter-calculator-from, .vav-converter-calculator-to {
+    width: 410px;
+    height: 45px;
+    display: block;
+    padding-bottom: 0;
+}
+#vav-converter-sum, #vav-converter-result {
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#vav-converter-currency-from, #vav-converter-currency-to {
+    width: 300px;
+    height: 40px;
+}
+.vav-converter-calculator-text {
+    width: 130px;
+}

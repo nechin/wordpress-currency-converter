@@ -1,0 +1,28 @@
+.admin-converter-add {
+    display: block;
+}
+table.admin-converter {
+    width: 100%;
+    border: 1px solid lightgray;
+    background-color: white;
+}
+table.admin-converter tbody tr:nth-of-type(2n) {
+    background-color: #f0f0f0;
+}
+table.admin-converter th, table.admin-converter td {
+    border: 1px solid lightgray;
+    padding: 5px;
+    text-align: center;
+}
+#admin-converter-edit-info {
+    color: #aa0000;
+}
+#admin-converter-edit-name-text {
+    font-weight: bold;
+    margin: 5px 0;
+    display: block;
+}
+.admin-converter-edit-modal-dialog-buttons {
+    padding: 15px 0 5px 0;
+    text-align: center;
+}
