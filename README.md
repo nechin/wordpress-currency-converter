@@ -1,2 +1,2 @@
 # wp_currency_converter
-Currency converter Wordpress
+Currency calculator - plugin for calculating exchange rates
